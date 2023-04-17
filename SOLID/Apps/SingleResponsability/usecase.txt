@@ -1,0 +1,3 @@
+Crear una clase que nos permita crear un producto 
+y registrar esa actividad para llevar un historial
+de acciones.

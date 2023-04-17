@@ -1,0 +1,6 @@
+CASO DE USO - open/close
+
+Diseñar una clase que pueda registrar actividades 
+hacia la consola, hacia un archivo y un futuro
+hacia otros destinos, ejemplo: el lod de windows
+o atravez de correo electronico.
